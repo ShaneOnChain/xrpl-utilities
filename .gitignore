@@ -1,0 +1,29 @@
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+env/
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VSCode related
+.vscode/
+*.code-workspace
+
+# Others
+*.log
+*.sqlite3
+dist/
+build/
+*.egg-info/
+
+# Secrets — never commit
+config.py
+found_address.txt
+*.seed

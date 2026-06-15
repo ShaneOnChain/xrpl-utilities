@@ -1,0 +1,43 @@
+XRPL Node Test Results
+Test run at: 2024-12-07 21:30:42
+
+
+Node: https://s2.ripple.com:51234/
+Location: North America
+Score: 95.71/100
+Average Latency: 96.78ms
+Success Rate: 100.00%
+WebSocket Reliability: 57.14%
+==================================================
+
+Node: https://s1.ripple.com:51234/
+Location: North America
+Score: 93.97/100
+Average Latency: 101.07ms
+Success Rate: 100.00%
+WebSocket Reliability: 42.86%
+==================================================
+
+Node: https://xrpl.link/rpc
+Location: Europe
+Score: 73.03/100
+Average Latency: 373.56ms
+Success Rate: 100.00%
+WebSocket Reliability: 50.00%
+==================================================
+
+Node: https://xrpl.ws/rpc
+Location: Global
+Score: 73.03/100
+Average Latency: 373.74ms
+Success Rate: 100.00%
+WebSocket Reliability: 50.00%
+==================================================
+
+Node: https://xrplcluster.com/rpc
+Location: Global
+Score: 72.24/100
+Average Latency: 377.31ms
+Success Rate: 100.00%
+WebSocket Reliability: 42.86%
+==================================================
